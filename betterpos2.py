@@ -71,12 +71,6 @@ while True:
         print (user_cart)
 
 
-# to do list 
-#1 cosmotics 
-#2 add menu items 
-# 3 do the remove items... 
-# Download thonny and run code 
-# 
 
 
 
